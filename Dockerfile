@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM truongsinh/nodejs-mongodb-redis
 MAINTAINER sameer@damagehead.com
 ENV DEBIAN_FRONTEND noninteractive
 
